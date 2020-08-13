@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mastermind.TestMastermindRepeatedLetters" tests="26" skipped="0" failures="0" errors="0" timestamp="2020-05-26T19:46:15" hostname="VARSHA-PC" time="0.022">
+  <properties/>
+  <testcase name="test01Sample" classname="mastermind.TestMastermindRepeatedLetters" time="0.002"/>
+  <testcase name="test02Sample" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test03Sample" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test04Sample" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test05" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test06" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test07" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test08" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test09" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test10" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test11" classname="mastermind.TestMastermindRepeatedLetters" time="0.0"/>
+  <testcase name="test12" classname="mastermind.TestMastermindRepeatedLetters" time="0.0"/>
+  <testcase name="test13" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test14" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test15" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test16" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test17" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test18" classname="mastermind.TestMastermindRepeatedLetters" time="0.0"/>
+  <testcase name="test19" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test20" classname="mastermind.TestMastermindRepeatedLetters" time="0.0"/>
+  <testcase name="test21" classname="mastermind.TestMastermindRepeatedLetters" time="0.0"/>
+  <testcase name="test22" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test23" classname="mastermind.TestMastermindRepeatedLetters" time="0.0"/>
+  <testcase name="test24" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <testcase name="test25" classname="mastermind.TestMastermindRepeatedLetters" time="0.0"/>
+  <testcase name="test26" classname="mastermind.TestMastermindRepeatedLetters" time="0.001"/>
+  <system-out><![CDATA[AABC.. ADFE
+1:A
+0:
+AABC.. ADFE
+1:A
+0:
+AABC.. ADFA
+DF*  *BC
+1:A
+1:A
+AABC.. ADFA
+DF*  *BC
+1:A
+1:A
+AABC.. DFAA
+DF*A  *ABC
+DF**  **BC
+0:
+2:AA
+AABC.. DFAA
+DF*A  *ABC
+DF**  **BC
+0:
+2:AA
+AABC.. DEFA
+DEF*  *ABC
+0:
+1:A
+AABC.. DEFA
+DEF*  *ABC
+0:
+1:A
+ABCD.. EAAA
+E*AA  *BCD
+0:
+1:A
+ABCD.. EAAA
+E*AA  *BCD
+0:
+1:A
+AABC.. ADFA
+DF*  *BC
+1:A
+1:A
+AABC.. ADFA
+DF*  *BC
+1:A
+1:A
+AABC.. DEFA
+DEF*  *ABC
+0:
+1:A
+AABC.. DEFA
+DEF*  *ABC
+0:
+1:A
+EDEB.. CBFE
+C*FE  EDE*
+C*F*  *DE*
+0:
+2:BE
+EDEB.. CBFE
+C*FE  EDE*
+C*F*  *DE*
+0:
+2:BE
+CFDF.. FCCD
+*CCD  C*DF
+**CD  **DF
+**C*  ***F
+0:
+3:FCD
+CFDF.. FCCD
+*CCD  C*DF
+**CD  **DF
+**C*  ***F
+0:
+3:FCD
+AABC.. AEFD
+1:A
+0:
+AABC.. AEFD
+1:A
+0:
+DCFC.. ABEC
+1:C
+0:
+DCFC.. ABEC
+1:C
+0:
+FDCD.. FBAD
+2:FD
+0:
+FDCD.. FBAD
+2:FD
+0:
+DEFA.. AABC
+*ABC  DEF*
+0:
+1:A
+DEFA.. AABC
+*ABC  DEF*
+0:
+1:A
+DAAE.. AABC
+*BC  D*E
+1:A
+1:A
+DAAE.. AABC
+*BC  D*E
+1:A
+1:A
+BBDC.. DFBB
+*FBB  BB*C
+*F*B  *B*C
+*F**  ***C
+0:
+3:DBB
+BBDC.. DFBB
+*FBB  BB*C
+*F*B  *B*C
+*F**  ***C
+0:
+3:DBB
+DBFF.. FFDD
+*FDD  DB*F
+**DD  DB**
+***D  *B**
+0:
+3:FFD
+DBFF.. FFDD
+*FDD  DB*F
+**DD  DB**
+***D  *B**
+0:
+3:FFD
+BDAD.. AAAE
+1:A
+0:
+BDAD.. AAAE
+1:A
+0:
+FDDB.. CABB
+1:B
+0:
+FDDB.. CABB
+1:B
+0:
+BDBC.. DDFC
+2:DC
+0:
+BDBC.. DDFC
+2:DC
+0:
+ECDE.. CEEE
+*EE  E*D
+**E  **D
+1:E
+2:CE
+ECDE.. CEEE
+*EE  E*D
+**E  **D
+1:E
+2:CE
+AAAF.. ABCA
+BC*  *AF
+1:A
+1:A
+AAAF.. ABCA
+BC*  *AF
+1:A
+1:A
+BCDA.. AFEA
+1:A
+0:
+BCDA.. AFEA
+1:A
+0:
+EEEE.. AFEA
+1:E
+0:
+EEEE.. AFEA
+1:E
+0:
+EEBE.. AFEA
+AF*A  *EBE
+0:
+1:E
+EEBE.. AFEA
+AF*A  *EBE
+0:
+1:E
+EEAD.. EEEE
+2:EE
+0:
+EEAD.. EEEE
+2:EE
+0:
+BACD.. EAFF
+1:A
+0:
+BACD.. EAFF
+1:A
+0:
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

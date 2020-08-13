@@ -1,0 +1,362 @@
+ABCD.. ABCD
+4:ABCD
+0:
+ABCD.. ABCD
+4:ABCD
+0:
+ABCD.. CDBA
+*DBA  AB*D
+**BA  AB**
+***A  A***
+****  ****
+0:
+4:CDBA
+ABCD.. CDBA
+*DBA  AB*D
+**BA  AB**
+***A  A***
+****  ****
+0:
+4:CDBA
+ABCD.. ABDC
+*C  C*
+**  **
+2:AB
+2:DC
+ABCD.. ABDC
+*C  C*
+**  **
+2:AB
+2:DC
+ABCD.. ABCF
+3:ABC
+0:
+ABCD.. ABCF
+3:ABC
+0:
+DAEF.. FECA
+*ECA  DAE*
+**CA  DA**
+**C*  D***
+0:
+3:FEA
+DAEF.. FECA
+*ECA  DAE*
+**CA  DA**
+**C*  D***
+0:
+3:FEA
+ACEB.. BCDF
+
+*DF  AE*
+1:C
+1:B
+ACEB.. BCDF
+
+*DF  AE*
+1:C
+1:B
+FBAE.. ABCD
+
+*CD  F*E
+1:B
+1:A
+FBAE.. ABCD
+
+*CD  F*E
+1:B
+1:A
+	FBAE.. AFDC
+	*FDC  FB*E
+	**DC  *B*E
+	0:
+	2:AF
+	FBAE.. AFDC
+	*FDC  FB*E
+	**DC  *B*E
+	0:
+	2:AF
+
+FBAE.. CBAE
+
+3:BAE
+
+0:
+
+FBAE.. CBAE
+
+3:BAE
+
+0:
+FBAE.. CBFE
+C*  *A
+2:BE
+1:F
+FBAE.. CBFE
+C*  *A
+2:BE
+1:F
+FBAE.. FBAE
+4:FBAE
+0:
+FBAE.. FBAE
+4:FBAE
+0:
+EBAC.. ABCD
+
+*CD  E*C
+
+**D  E**
+1:B
+2:AC
+EBAC.. ABCD
+
+*CD  E*C
+
+**D  E**
+1:B
+2:AC
+EBAC.. AFCB
+*FCB  EB*C
+*F*B  EB**
+*F**  E***
+0:
+3:ACB
+EBAC.. AFCB
+*FCB  EB*C
+*F*B  EB**
+*F**  E***
+0:
+3:ACB
+EBAC.. CBDF
+
+*DF  EA*
+1:B
+1:C
+EBAC.. CBDF
+
+*DF  EA*
+1:B
+1:C
+EBAC.. EBAC
+4:EBAC
+0:
+EBAC.. EBAC
+4:EBAC
+0:
+AABC.. ADFE
+1:A
+0:
+AABC.. ADFE
+1:A
+0:
+AABC.. ADFA
+
+DF*  *BC
+1:A
+1:A
+AABC.. ADFA
+
+DF*  *BC
+1:A
+1:A
+AABC.. DFAA
+DF*A  *ABC
+DF**  **BC
+0:
+2:AA
+AABC.. DFAA
+DF*A  *ABC
+DF**  **BC
+0:
+2:AA
+AABC.. DEFA
+DEF*  *ABC
+0:
+1:A
+AABC.. DEFA
+DEF*  *ABC
+0:
+1:A
+ABCD.. EAAA
+E*AA  *BCD
+0:
+1:A
+ABCD.. EAAA
+E*AA  *BCD
+0:
+1:A
+AABC.. ADFA
+
+DF*  *BC
+1:A
+1:A
+AABC.. ADFA
+
+DF*  *BC
+1:A
+1:A
+AABC.. DEFA
+DEF*  *ABC
+0:
+1:A
+AABC.. DEFA
+DEF*  *ABC
+0:
+1:A
+EDEB.. CBFE
+C*FE  EDE*
+C*F*  *DE*
+0:
+2:BE
+EDEB.. CBFE
+C*FE  EDE*
+C*F*  *DE*
+0:
+2:BE
+CFDF.. FCCD
+*CCD  C*DF
+**CD  **DF
+**C*  ***F
+0:
+3:FCD
+CFDF.. FCCD
+*CCD  C*DF
+**CD  **DF
+**C*  ***F
+0:
+3:FCD
+AABC.. AEFD
+1:A
+0:
+AABC.. AEFD
+1:A
+0:
+DCFC.. ABEC
+1:C
+0:
+DCFC.. ABEC
+1:C
+0:
+FDCD.. FBAD
+2:FD
+0:
+FDCD.. FBAD
+2:FD
+0:
+DEFA.. AABC
+*ABC  DEF*
+0:
+1:A
+DEFA.. AABC
+*ABC  DEF*
+0:
+1:A
+DAAE.. AABC
+
+*BC  D*E
+1:A
+1:A
+DAAE.. AABC
+
+*BC  D*E
+1:A
+1:A
+ BBDC.. DFBB
+ *FBB  BB*C
+ *F*B  *B*C
+ *F**  ***C
+ 0:
+ 3:DBB
+ BBDC.. DFBB
+ *FBB  BB*C
+ *F*B  *B*C
+ *F**  ***C
+ 0:
+ 3:DBB
+!DBFF.. FFDD
+!*FDD  DB*F
+!**DD  DB**
+!***D  *B**
+!0:
+!3:FFD
+!DBFF.. FFDD
+!*FDD  DB*F
+!**DD  DB**
+!***D  *B**
+!0:
+!3:FFD
+"BDAD.. AAAE
+"1:A
+"0:
+"BDAD.. AAAE
+"1:A
+"0:
+#FDDB.. CABB
+#1:B
+#0:
+#FDDB.. CABB
+#1:B
+#0:
+$BDBC.. DDFC
+$2:DC
+$0:
+$BDBC.. DDFC
+$2:DC
+$0:
+%ECDE.. CEEE
+%
+*EE  E*D
+%
+**E  **D
+%1:E
+%2:CE
+%ECDE.. CEEE
+%
+*EE  E*D
+%
+**E  **D
+%1:E
+%2:CE
+&AAAF.. ABCA
+&
+BC*  *AF
+&1:A
+&1:A
+&AAAF.. ABCA
+&
+BC*  *AF
+&1:A
+&1:A
+'BCDA.. AFEA
+'1:A
+'0:
+'BCDA.. AFEA
+'1:A
+'0:
+(EEEE.. AFEA
+(1:E
+(0:
+(EEEE.. AFEA
+(1:E
+(0:
+)EEBE.. AFEA
+)AF*A  *EBE
+)0:
+)1:E
+)EEBE.. AFEA
+)AF*A  *EBE
+)0:
+)1:E
+*EEAD.. EEEE
+*2:EE
+*0:
+*EEAD.. EEEE
+*2:EE
+*0:
++BACD.. EAFF
++1:A
++0:
++BACD.. EAFF
++1:A
++0:
